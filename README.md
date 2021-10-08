@@ -1,6 +1,9 @@
 # linguistics
 linguistics - philology -phonetics
 
+https://www.discovermagazine.com/planet-earth/deciphering-the-mysterious-minoan-language-of-ancient-crete
+10.08.2021
+
 Recommended Reading List  
 
 **GENERAL LINGUISTICS**
