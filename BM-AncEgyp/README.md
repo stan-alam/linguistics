@@ -75,7 +75,26 @@
   <img src="https://github.com/stan-alam/linguistics/blob/develop/BM-AncEgyp/images/01/BMEgypnHieglyphs%20-%20page%2019.png" width="80%" height="80%">
 </a>
 
-
 <a>
   <img src="https://github.com/stan-alam/linguistics/blob/develop/BM-AncEgyp/images/01/BMEgypnHieglyphs%20-%20page%2020.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/linguistics/blob/develop/BM-AncEgyp/images/01/BMEgypnHieglyphs%20-%20page%2021.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/linguistics/blob/develop/BM-AncEgyp/images/01/BMEgypnHieglyphs%20-%20page%2022.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/linguistics/blob/develop/BM-AncEgyp/images/01/BMEgypnHieglyphs%20-%20page%2023.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/linguistics/blob/develop/BM-AncEgyp/images/01/BMEgypnHieglyphs%20-%20page%2024.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/linguistics/blob/develop/BM-AncEgyp/images/01/BMEgypnHieglyphs%20-%20page%2025.png" width="80%" height="80%">
 </a>
