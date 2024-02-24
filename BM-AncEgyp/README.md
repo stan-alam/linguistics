@@ -287,5 +287,13 @@
   <img src="https://github.com/stan-alam/linguistics/blob/develop/BM-AncEgyp/images/01/BMEgypnHieglyphs%20-%20page%2072.png" width="80%" height="80%">
 </a>
 
+<a>
+  <img src="https://github.com/stan-alam/linguistics/blob/develop/BM-AncEgyp/images/01/BMEgypnHieglyphs%20-%20page%2073.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/linguistics/blob/develop/BM-AncEgyp/images/01/BMEgypnHieglyphs%20-%20page%2074.png" width="80%" height="80%">
+</a>
+
 
 
